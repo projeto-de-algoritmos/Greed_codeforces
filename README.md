@@ -1,7 +1,7 @@
 # Exercícios Codeforces
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Algoritmos Gananciosos <br>
 
 ## Alunos
 |Matrícula | Aluno |
